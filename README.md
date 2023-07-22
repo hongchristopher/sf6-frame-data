@@ -2,6 +2,11 @@
 
 Discord bot that will respond to user messages with pertinent SF6 character frame data. Provides users with a quick resource when learning combo links and when it's safe to attempt a counterhit in SF6 matches.
 
+Messages in the format: 'character position move-name' will receive a response with pertinent data.
+See example:
+
+![sf6](https://github.com/hongchristopher/sf6_frame_data_bot/assets/101071700/d6535160-da0b-43f1-a1c3-04f2da02b7b9)
+
 
 ## Getting Started
 
